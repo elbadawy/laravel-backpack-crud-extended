@@ -1,5 +1,5 @@
 {
-    "name": "novius/laravel-backpack-crud-extended",
+    "name": "elbadawy/laravel-backpack-crud-extended",
     "description": "This package extends Laravel Backpack\\CRUD",
     "keywords": [
         "Novius",
@@ -21,6 +21,10 @@
         {
             "name": "Tony Botalla",
             "email": "botalla@novius.fr"
+        },
+        {
+            "name": "Ahmad Elbadawy",
+            "email": "ahmad.elbadawy@outlook.com"
         }
     ],
     "require": {
